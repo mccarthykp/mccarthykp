@@ -1,4 +1,4 @@
-## Hi there! :wave:
+## Hi there! :wave::skin-tone-3:
 ##
 I'm currently a Dev Degree intern at [Shopify](https://www.shopify.com) and an Applied Computer Science student at [Dominican University of California](https://www.dominican.edu).
 
