@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-#### I am a Dev Degree intern at [Shopify](https://www.shopify.com) and an Applied Computer Science student at [Dominican University of California](https://www.dominican.edu).
+#### I am currently a Dev Degree intern at [Shopify](https://www.shopify.com) and an Applied Computer Science student at [Dominican University of California](https://www.dominican.edu).
 
 <!--
 **mccarthykp/mccarthykp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
