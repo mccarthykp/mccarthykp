@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-_
+_______________________________________________________________________________________________________________________________________
 
 #### I'm currently a Dev Degree intern at [Shopify](https://www.shopify.com) and an Applied Computer Science student at [Dominican University of California](https://www.dominican.edu).
 
