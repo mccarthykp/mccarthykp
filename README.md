@@ -1,5 +1,6 @@
 ## Hi there! :wave:
 
+Building digital identity for gaming @[PlayerAuth](https://www.playerauth.com).
 <!--
 **mccarthykp/mccarthykp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
